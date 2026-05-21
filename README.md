@@ -1,4 +1,4 @@
-🌐 Internet of Behaviors (IoB)
+🌐 Internet of Behaviors (IoB)                 [📥 Download Full Presentation PDF](Internet%20of%20Behaviors%20(IoB).pdf)
 
 Emerging Technology Seminar Presentation | 9 Slides | Behavioral Analytics · AI · IoT
 
@@ -73,3 +73,8 @@ Class: BCA TY, Div A, Roll No: 25735
 Exam Seat No: ZI37400
 College: Dayanand College of Commerce, Latur (SRTMU)
 Email: kamblebadal25@gmail.com
+
+[📥 Download Full Presentation PDF](Internet%20of%20Behaviors%20(IoB).pdf)
+
+
+![Internet of Behaviors IoB](%F0%9F%8C%90%20Internet%20of%20Behaviors%20(IoB).png)
